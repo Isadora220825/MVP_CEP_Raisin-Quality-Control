@@ -3,13 +3,11 @@
 Universidade de Brasília — Engenharia de Produção
 
 ## Sobre o projeto
-Classificação automática de variedades de uvas passas (Kecimen vs Besni)
-por visão computacional e aprendizado de máquina, com integração ao
-Controle Estatístico de Processo (CEP).
+Classificação automática de variedades de uvas passas (Kecimen vs Besni), com integração ao
+Controle Estatístico de Processos (CEP).
 
 ## Como executar
-Clique no botão abaixo para abrir o notebook diretamente no Google Colab
-— nenhuma instalação necessária, o dataset é baixado automaticamente.
+Clique no botão abaixo para abrir o notebook diretamente no Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_DO_SEU_NOTEBOOK_AQUI)
 
